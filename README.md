@@ -1,2 +1,2 @@
-# App_IOS_Gestion_Etudiants
-Projet IOS de gestion d'étudiants
+# App_IOS_Manage_Students
+App for managing students stuffs
